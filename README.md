@@ -1,0 +1,2 @@
+# Real-Time-Traffic-Obstacle-Detection-Using-Hybrid-FCL-for-R-CNN-and-EfficientDet
+This work leverages the Single-Stage Object Detection (SSD) framework to detect objects in a single pass by predicting class labels and bounding box coordinates directly from multiple feature maps at different resolutions. Unlike two-stage methods, SSD eliminates region proposals, enabling faster real-time performance.
